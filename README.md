@@ -1,0 +1,1 @@
+I made this because I was playing with my new CPU and wanted to test its full capabilitys with my Motherboard, GPU etc to see if it bottlenecks. and realized EAC blocks you from doing anything to the application (makes sense but its fucking annoying) so Changing a registry key to set priority of the application is the same method that VRChat Uses. 
